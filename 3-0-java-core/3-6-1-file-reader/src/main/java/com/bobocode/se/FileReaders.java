@@ -16,6 +16,7 @@ import static java.util.stream.Collectors.joining;
  */
 public class FileReaders {
 
+
     /**
      * Returns a {@link String} that contains whole text from the file specified by name.
      *
